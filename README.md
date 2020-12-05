@@ -9,4 +9,4 @@ For instance if the user gave it a date like 12/5/2020, It' ll give saturday as 
 Written in  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
 ## License
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
- MIT © vulture990
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) MIT © vulture990
