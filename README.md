@@ -10,3 +10,7 @@ Written in  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for
 ## License ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  MIT © vulture990
+
+
+
+![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)
