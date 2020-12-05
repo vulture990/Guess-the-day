@@ -7,6 +7,6 @@ It's was during lunch with my little sister i'm 10 years old then her and she as
 For instance if the user gave it a date like 12/5/2020, It' ll give saturday as output.
 ## Code Styling
 Written in  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
-## License
+## License ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) MIT © vulture990
+ MIT © vulture990
